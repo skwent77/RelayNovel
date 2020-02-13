@@ -37,7 +37,7 @@ public class JaeActivity2 extends AppCompatActivity {
        // EditText editText = findViewById(R.id.editTextGet);
 
 
-        String gettingText1;
+      String gettingText1;
       String gettingText2;
       textViewTemp = findViewById(R.id.textViewParentTop);
 
