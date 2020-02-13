@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">blockchain_v.1</string>
+    <string name="app_name">릴레이 소설</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>
@@ -13,4 +13,8 @@
     <string name="menu_tools">Tools</string>
     <string name="menu_share">Share</string>
     <string name="menu_send">Send</string>
+    <string name="account_name">account_value</string>
+    <string name="balance">balance</string>
+    <string name="WalletAddress">WalletAddress</string>
+    <string name="MyAllActivity">MyAllActivity</string>
 </resources>
